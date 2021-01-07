@@ -2,13 +2,11 @@
   display: none;
 }
 
-body #wall #tag-2 { /* 201 */
+body #wall #tag-2 {
   display: none;
 }
 
-/* Tag 3 -> 211 */
-
-div#wall div#tag-3.slick, .wicked{ /*222*/
+#wall div#tag-3.slick, .wicked {
   display: none;
 }
 
