@@ -18,12 +18,10 @@ body #wall div.parent div#tag-5.slick {
   display: none;
 }
 
-body div#wall div.parent div:last-child div#tag-6 { /*225*/
+body div#wall div.parent div:last-child div#tag-6 { 
   display: none;
 }
 
-/* Tag 7 -> 224 */
-
-body div#wall div.parent div > div#tag-7.slick { /*225*/
+body div#wall div.parent div > div#tag-7.slick { 
   display: none;
 }
